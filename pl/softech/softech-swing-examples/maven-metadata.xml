@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>pl.softech</groupId>
-  <artifactId>softech-swing</artifactId>
+  <artifactId>softech-swing-examples</artifactId>
   <version>1.0</version>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20130324200451</lastUpdated>
+    <lastUpdated>20130324200511</lastUpdated>
   </versioning>
 </metadata>
