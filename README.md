@@ -1,6 +1,7 @@
 How to use
 ========
 
+```xml
 <repositories>
   <repository>
     <id>mvn.repo</id>
