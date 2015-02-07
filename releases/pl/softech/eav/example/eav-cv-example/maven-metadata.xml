@@ -3,10 +3,11 @@
   <groupId>pl.softech.eav.example</groupId>
   <artifactId>eav-cv-example</artifactId>
   <versioning>
-    <release>1.2</release>
+    <release>1.3</release>
     <versions>
       <version>1.2</version>
+      <version>1.3</version>
     </versions>
-    <lastUpdated>20150106172045</lastUpdated>
+    <lastUpdated>20150207172802</lastUpdated>
   </versioning>
 </metadata>
